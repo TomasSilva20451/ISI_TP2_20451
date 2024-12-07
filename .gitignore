@@ -1,0 +1,11 @@
+# Arquivos e diretórios gerados automaticamente
+bin/
+obj/
+*.db
+localhost-dev.crt
+*.crt
+*.pfx
+
+# Configurações locais
+appsettings.Development.json
+.DS_Store
